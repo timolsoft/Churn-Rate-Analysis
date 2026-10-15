@@ -31,6 +31,7 @@ This project aims to analyze customer churn within a banking institution by exam
 - **Balance & Tenure Influence**: Analyzed how balance levels and customer tenure correlate with churn likelihood.
 - **Customer Engagement**: Observed that active customers have significantly lower churn rates.
 - **Product Utilization**: Found that customers with fewer subscribed products are more likely to churn.
+<img width="1120" height="615" alt="image" src="https://github.com/user-attachments/assets/c374fbc3-8ca4-40ae-81ed-9d7ad32c3433" />
 
 ## Tools Used
 - **Power BI**: Developed interactive dashboards and visualizations.
